@@ -1,0 +1,15 @@
+Equipe:
+DSNG6.
+
+Integrantes:
+João Vitor Lima da Silveira n°:20
+Juliano Kennedy Rodrigues n°:23
+Karolaine Bonifácio Teodoro n°:24
+Marco Antônio Pereira Alves Fonseca n°:28
+Maria Eduarda Silveira e Silva n°:30
+Túlio Henrique Gonçalves Simões n°:37
+Virgínia Letícia Afonso n°:40
+
+
+A interação com o NPC está na Scene Lv1 1.
+:p
